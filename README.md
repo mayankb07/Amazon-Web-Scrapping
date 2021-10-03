@@ -1,6 +1,6 @@
 # Amazon-Web-Scrapping
 
-* Peformed web scrapping on price and rating of the product
+* Performed web scrapping on price and rating of the product
 * Created an AmazonWebscrapping.csv file and stored the data after scrapping
 * Automated script which runs once in a day and append the data in an existing file
 * Automated email script to trigger an email, if the rating of the product goes beyond 50
